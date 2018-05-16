@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "APCSP Create Task",
+    "slug": "APCSP-Create-Task",
+    "privacy": "unlisted",
+    "sdkVersion": "24.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./appIcon.png",
+    "loading": {
+      "icon": "./loadingIcon.png",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.codehs.297717APCSPCreateTask",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.codehs.297717APCSPCreateTask",
+      "versionCode": 1
+    }
+  }
+}
